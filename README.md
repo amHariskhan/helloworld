@@ -1,4 +1,20 @@
 # helloworld
 this is my first demo
 Qazi Haris
-hello my name is haris and i belong to kohat
+hello my name is haris and i belong to kohat<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Profile Card</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="card">
+    <img src="https://via.placeholder.com/150" alt="Profile Picture">
+    <h1>John Doe</h1>
+    <p class="title">Software Engineer</p>
+    <p>example@example.com</p>
+    <a href="#">Contact</a>
+  </div>
+</body>
+</html>
